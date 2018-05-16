@@ -6,6 +6,7 @@ Current example is a way to reproduce a windows file path bug in the [gojsonsche
 
 ```
 go get github.com/Daniel-Houston/examples
+cd ~/go/src/github.com/Daniel-Houston/examples
 go run main.go
 ```
 
